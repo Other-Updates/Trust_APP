@@ -1,0 +1,4 @@
+application/cache
+application/config/config.php
+application/config/database.php
+attachments/f2fsolut_esms.sql
